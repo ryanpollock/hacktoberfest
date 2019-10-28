@@ -1,0 +1,5 @@
+Hello world!
+
+I'm testing whether the Hacktoberfest website actually tracks this tiny little text file as an open source contribution.
+
+Does it work?
